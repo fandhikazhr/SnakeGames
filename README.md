@@ -3,9 +3,7 @@ Hello (ʘ‿ʘ)╯
 
 Snake Games on your's terminal
 <h3> Usage </h3>
-- 🐱‍👤 I’m currently learning **Python Programming**
-
-
+<p> First compile file snakegames.cpp </p>
 Key used :
 
 - W for Up
