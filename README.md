@@ -2,7 +2,6 @@
 Hello (ʘ‿ʘ)╯
 
 Snake Games on your's terminal
-
 <h3> Usage </h3>
 
 Key used :
