@@ -4,6 +4,7 @@ Hello (ʘ‿ʘ)╯
 Snake Games on your's terminal
 <h3> Usage </h3>
 <p> First compile file snakegames.cpp </p>
+<textarea> clang++-7 -pthread -std=c++17 -o snakegames snakegames.cpp </textarea>
 Key used :
 
 - W for Up
