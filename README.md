@@ -3,7 +3,10 @@ Hello (ʘ‿ʘ)╯
 
 Snake Games on your's terminal
 <h3> Usage </h3>
-<p> First compile file `snakegames.cpp` </p>
+
+#### Inline
+
+First compile file `snakegames.cpp`
 
 Key used :
 
