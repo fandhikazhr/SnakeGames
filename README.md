@@ -8,8 +8,8 @@ Snake Games on your's terminal
 Key used :
 
 - <kbd>W</kbd> for Up
-- S for Down
-- D for Right
-- A for Left
+- <kbd>S</kbd> for Down
+- <kbd>D</kbd> for Right
+- <kbd>A</kbd> for Left
 
 You can play demo in here : https://replit.com/@FandhikaAzhar/snake#main.cpp
