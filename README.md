@@ -7,7 +7,7 @@ Snake Games on your's terminal
 
 Key used :
 
-- W for Up
+- <kbd>W</kbd> for Up
 - S for Down
 - D for Right
 - A for Left
