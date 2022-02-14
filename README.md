@@ -3,7 +3,8 @@ Hello (ʘ‿ʘ)╯
 
 Snake Games on your's terminal
 <h3> Usage </h3>
-First Compile **snakegames.cpp**
+- 🐱‍👤 I’m currently learning **Python Programming**
+
 
 Key used :
 
