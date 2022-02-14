@@ -7,7 +7,7 @@ Snake Games on your's terminal
 First compile file `snakegames.cpp`
 
 ```
-clang++-7 -pthread -std=c++17 -o snakegames snakegames.cpp
+clang++ -Wall -std=c++11 snakegames.cpp -o snakegames
 ```
 
 Key used :
