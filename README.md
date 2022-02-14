@@ -19,7 +19,7 @@ Key used :
 
 <h3> Preview </h3>
 
-![snakeGames](https://user-images.githubusercontent.com/99522867/153838037-3f1a2cb9-e4c1-46f8-9f55-c21938f0bea0.gif)
+![snakeGames](https://user-images.githubusercontent.com/99522867/153840407-3aba10ca-4cad-499c-86d8-e03758eae867.gif)
 
 
 You can play demo in here : https://replit.com/@FandhikaAzhar/snake#main.cpp
