@@ -5,7 +5,8 @@ Snake Games on your's terminal
 <h3> Usage </h3>
 <p> First compile file snakegames.cpp </p>
 ```
-clang++-7 -pthread -std=c++17 -o snakegames snakegames.cpp
+No language indicated, so no syntax highlighting. 
+But let's throw in a <b>tag</b>.
 ```
 Key used :
 
