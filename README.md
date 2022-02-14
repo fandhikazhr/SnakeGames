@@ -18,6 +18,10 @@ Key used :
 - <kbd>A</kbd> for Left
 
 <h3> Preview </h3>
-https://user-images.githubusercontent.com/99522867/153834007-e452c3bc-ab06-4516-8e65-e36ae0b125f5.mp4
+
+
+https://user-images.githubusercontent.com/99522867/153834254-3cf9a2bd-49f6-4d11-9918-657e8891d9c7.mp4
+
+
 
 You can play demo in here : https://replit.com/@FandhikaAzhar/snake#main.cpp
