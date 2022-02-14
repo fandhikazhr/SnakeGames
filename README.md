@@ -8,6 +8,7 @@ Snake Games on your's terminal
 No language indicated, so no syntax highlighting. 
 But let's throw in a <b>tag</b>.
 ```
+
 Key used :
 
 - W for Up
