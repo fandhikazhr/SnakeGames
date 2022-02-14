@@ -8,7 +8,6 @@ First compile file `snakegames.cpp`
 
 ```
 clang++-7 -pthread -std=c++17 -o snakegames snakegames.cpp
-
 ```
 
 Key used :
